@@ -1,0 +1,5 @@
+# LineFive GitHub Pages build
+# Pages URLs are defined explicitly in each page's front matter.
+exclude:
+  - README.txt
+  - .github
